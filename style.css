@@ -5,14 +5,20 @@ body{
     height: 340px;
     width: auto;
 }
-.ciao1{
+.barra1{
     background-color: white;
-    width: 150px;
+    width: 100px;
     height: 4px;
 }
-.ciao2{
+.downloadbutton{
+    background-color: #1abc9c;
+    border: white;
+    border-style: solid;
+    
+}
+.barra2{
     background-color: black;
-    width: 150px;
+    width: 100px;
     height: 4px;
 }
 .titlesubtitles{
@@ -28,10 +34,11 @@ body{
     width: 100%;
     height: 850px;
 }
-.Ret_verde2{
+.ret_verde2{
     background-color: #1abc9c;
     width: 100%;
     height: 400px;
+    color: white;
 }
 .Ret_blu{
     background-color: #3a546d;
