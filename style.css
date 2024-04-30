@@ -1,6 +1,23 @@
 body{
     font-family: sans-serif;
 }
+.immage-profile{
+    height: 340px;
+    width: auto;
+}
+.ciao1{
+    background-color: white;
+    width: 150px;
+    height: 4px;
+}
+.ciao2{
+    background-color: black;
+    width: 150px;
+    height: 4px;
+}
+.titlesubtitles{
+    color: white;
+}
 .Ret_verde{
     background-color: #1abc9c;
     width: 100%;
@@ -21,10 +38,7 @@ body{
     width: 100%;
     height: 200px;
 }
-.MaxwidthImmagini{
-    max-width: 1000px;
-    margin: 0 auto; 
-}
+
 
 
 
